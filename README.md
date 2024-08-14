@@ -30,6 +30,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[https://imgur.com/a/VJD7Qe8](https://your-download-link-here.com)
+[https://imgur.com/a/m7PXoTW](https://your-download-link-here.com)
 
 **Become the ultimate anime hero with knowledge as your greatest weapon.**
