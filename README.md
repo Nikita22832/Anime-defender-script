@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b6e0dbc0-78e3-494d-abc5-fe8197a8881c)
+
 ## Anime Defenders: A Deeper Look into the Action
 
 This repository contains a script designed to enhance your experience in Anime Defenders, the popular Roblox game where you take on the role of a powerful anime hero. This script is not about gaining an unfair advantage; it's about gaining a deeper understanding of the game's mechanics and environment.
