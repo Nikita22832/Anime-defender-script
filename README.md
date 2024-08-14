@@ -30,6 +30,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the script here](https://your-download-link-here.com)
+[https://imgur.com/a/VJD7Qe8](https://your-download-link-here.com)
 
 **Become the ultimate anime hero with knowledge as your greatest weapon.**
